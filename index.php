@@ -9,6 +9,7 @@
     <style>
         .product-card {
             margin-bottom: 20px;
+           
         }
 
         .card-img-top {
